@@ -1,0 +1,4 @@
+{"level":"error","message":"Could not get movies"}
+{"level":"error","message":"Could not get movies"}
+{"ok":0,"code":8000,"codeName":"AtlasError","name":"MongoError","level":"error","message":"Could not connect to MongoDB..."}
+{"ok":0,"code":8000,"codeName":"AtlasError","name":"MongoError","level":"error","message":"Could not connect to MongoDB..."}
